@@ -147,3 +147,18 @@ In a software development project, clearly defined roles and responsibilities ar
 - Foster a collaborative and productive team environment.
 - Coach the team on Agile principles and practices.
 - Ensure continuous improvement within the team.
+
+
+
+## UI Component Patterns
+
+In this project, we plan to create several UI components to ensure a consistent and user-friendly interface. Here are the key components:
+
+### Navbar
+The Navbar will provide easy navigation throughout the application. It will include links to the main sections such as Home, Listings, Bookings, and Profile.
+
+### Property Card
+The Property Card will display the essential details of a property, including images, title, location, and price. It will be used in the property listing views to give users a quick overview of each property.
+
+### Footer
+The Footer will include important information and links such as contact details, terms of service, and privacy policy. It will be present at the bottom of every page to provide users with additional resources and information.
