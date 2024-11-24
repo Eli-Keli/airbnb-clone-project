@@ -64,7 +64,7 @@ A user-friendly design is crucial in a booking system for several reasons:
 Overall, a user-friendly design is essential for creating a successful booking system that meets the needs of its users and achieves the project goals.
 
 
-## Software Development Team Roles 👥
+## Project Roles and Responsibilities
 
 In a software development project, clearly defined roles and responsibilities are crucial for success. Here’s a breakdown of the typical roles within a development team and their key responsibilities:
 
